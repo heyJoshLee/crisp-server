@@ -1,9 +1,6 @@
+# Things to improve
 
-
-
-## TODO
-- Finish crud for Account
-- Start and finsh crud for AccountType
-- Hook up to controller
-- Check user stories for additional function
-- Add front end
+- Add validations
+- Add log in / auth
+- Clean up unused code
+- Add methods to get resources and related resources with few queries
