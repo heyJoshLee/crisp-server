@@ -1,3 +1,6 @@
+# Video Overview and Walkthrough
+https://komododecks.com/recordings/ssQA7yJW0KWD6e2PFPjj
+
 # To start
 - Create proper database
 - Update properties file
